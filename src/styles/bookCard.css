@@ -1,0 +1,18 @@
+.main-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.book-item {
+    border: 3px solid black;
+    margin: 15px;
+    padding: 5px;
+    width: 20rem;
+    max-height: 45rem;
+    
+}
+
+img {
+    width:  20rem;
+    max-height: 25rem;
+}
