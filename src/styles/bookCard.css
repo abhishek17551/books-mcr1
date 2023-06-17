@@ -1,7 +1,4 @@
-.main-container {
-    display: flex;
-    flex-direction: column;
-}
+
 
 .book-item {
     border: 3px solid black;
